@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 10 08:27:02 2023
-
-@author: user1
-"""
-
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import tkinter as tk
