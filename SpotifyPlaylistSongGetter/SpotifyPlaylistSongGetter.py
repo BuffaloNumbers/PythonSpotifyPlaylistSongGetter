@@ -12,7 +12,7 @@ from tkinter import messagebox
 from tkinter import filedialog
 
 
-# Spotify API credentials
+# Spotify API credentials from Spotify
 CLIENT_ID = 'your_client_id'
 CLIENT_SECRET = 'your_client_secret'
 
